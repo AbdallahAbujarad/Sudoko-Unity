@@ -1,0 +1,87 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+MemoryCaptures.meta
+
+# Android/Gradle/Build related
+.gradle/
+*.apk
+*.aab
+*.ap_
+*.unitypackage
+*.unitypackage.meta
+
+# iOS/Xcode
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.swp
+*.xcuserstate
+DerivedData/
+*.ipa
+
+# VS/JetBrains IDE
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# JetBrains Rider
+[Aa]ssets/Plugins/Editor/JetBrains*
+.idea/
+
+# OS generated
+.DS_Store
+*.swp
+*.bak
+*.tmp
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Crashlytics
+crashlytics-build.properties
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/*
+
+# Unity Cloud Build
+/[Uu]sb/
+
+# Unity Collaborate
+.collabignore
+.collab/
+
+# Auto-generated from Unity Hub
+.env
+
+# VSCode
+.vscode/
+
+# Exported objects from Unity
+ExportedObj/
